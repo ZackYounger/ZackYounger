@@ -1,5 +1,5 @@
 ### Hi!
-## I'm Zack and I spend my time writing python code that only just works. 
+## I'm Zack and I spend my time writing code that only just works. 
 ---
 I've spent a long time exploring bezier curves and metaballs.
 
